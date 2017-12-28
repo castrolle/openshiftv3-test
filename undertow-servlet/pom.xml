@@ -66,7 +66,7 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
             <build>
-                <finalName>undertow-servlet</finalName>
+                <finalName>undertow-servlet-test</finalName>
                 <plugins>
                     <plugin>
                         <groupId>org.apache.maven.plugins</groupId>
