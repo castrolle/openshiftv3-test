@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/force.iml" filepath="$PROJECT_DIR$/force.iml" />
       <module fileurl="file://$PROJECT_DIR$/undertow-servlet/servlet.iml" filepath="$PROJECT_DIR$/undertow-servlet/servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-service/springboot-service.iml" filepath="$PROJECT_DIR$/springboot-service/springboot-service.iml" />
     </modules>
   </component>
 </project>
